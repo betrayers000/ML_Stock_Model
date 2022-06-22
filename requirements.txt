@@ -6,7 +6,7 @@ Django==3.0.5
 idna==2.9
 investpy==0.9.14
 lxml==4.5.0
-numpy==1.18.2
+numpy==1.22.0
 pandas==1.0.3
 pycodestyle==2.5.0
 python-dateutil==2.8.1
